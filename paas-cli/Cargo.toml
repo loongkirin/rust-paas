@@ -7,3 +7,4 @@ license.workspace = true
 
 [dependencies]
 clap.workspace = true
+env_logger.workspace = true
