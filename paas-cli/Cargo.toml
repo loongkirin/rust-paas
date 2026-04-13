@@ -1,0 +1,10 @@
+[package]
+name = "paas-cli"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+
+[dependencies]
+clap.workspace = true
+env_logger.workspace = true
