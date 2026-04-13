@@ -8,3 +8,5 @@ license.workspace = true
 [dependencies]
 clap.workspace = true
 env_logger.workspace = true
+rpassword = "7.3"
+dirs = "5"
